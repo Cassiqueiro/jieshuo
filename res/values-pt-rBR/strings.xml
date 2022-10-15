@@ -1452,7 +1452,7 @@
     <string name="delete_log_title">Excluir todos os logs</string>
     <string name="use_custom_speak_clear_title">Personalizar leitura</string>
     <string name="custom_speak_clear_title">Personalização avançada de leitura</string>
-    <string name="speak_clear_setting">Ler as configurações de leitura</string>
+    <string name="speak_clear_setting">Configurações de leitura de textos</string>
     <string name="use_custom_speak_symbol_number_title">Otimizar a leitura de síbolos repetidos</string>
     <string name="custom_speak_symbol_number_title">Personalização de símbolos reptidos</string>
     <string name="use_emoji_speak_clear_title">Usar leitura avançada de emoji</string>
@@ -1462,7 +1462,7 @@
     <string name="custom_content_title">Configurações de conteúdo personalizado de foco</string>
     <string name="directory_name">codinomes</string>
     <string name="use_emoji_speak_mode_title">Modo de leitura de Emoji</string>
-    <string name="use_no_bluetooth_title">Ler Quando conectado a um fone de ouvido ou alto-falante Bluetooth</string>
+    <string name="use_no_bluetooth_title">Manter a voz no celular Quando conectado a um fone de ouvido ou alto-falante Bluetooth</string>
     <string name="custom_speak_clear_summary">Os caracteres adicionados a esta lista não serão lidos, e expressões regulares são suportadas</string>
     <string name="input_setting_title">Configurações de digitação</string>
     <string name="use_input_method_speak_key_title">Ler caracteres digitados</string>

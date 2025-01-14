@@ -924,7 +924,7 @@
     <string name="msg_enabled_raw_tap">Modo Apontador iniciado, toque diretamente na tela e aguarde 1 segundo para que o item focado seja ativado</string>
     <string name="msg_disabled_raw_tap">Modo apontador finalizado</string>
     <string name="system_tts_scale_summary">Esta funcionalidade está em teste, ela acelera o mecanismo de voz do sistema, porém, poderá não funcionar com todos os mecanismos de voz</string>
-    <string name="send_email_title">Email jieshuo@ciata.ong.br</string>
+    <string name="send_email_title">E-mail suporte@ciata.org.br</string>
 
     <string name="voice_helper_use_blot_title">Usar Robô</string>
     <string name="message_recognition_empty">Não entendi o que você falou</string>
